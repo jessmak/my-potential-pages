@@ -1,0 +1,11 @@
+{
+  "name": "my-potential-pages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jessmak",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessmak/my-potential-pages.git"
+  }
+}
